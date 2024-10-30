@@ -1,0 +1,22 @@
+{
+  "name": "decorator",
+  "version": "1.0.0",
+  "description": "This is a TypeScript project which is meant to display an example of the Decorator pattern.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reshman96/Decorator.git"
+  },
+  "author": "Reshman Siva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reshman96/Decorator/issues"
+  },
+  "homepage": "https://github.com/Reshman96/Decorator#readme",
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
